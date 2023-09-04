@@ -1,27 +1,23 @@
-# Il Matterello Website Demo
+# Javascript Event Handlers
 
-Il Matterello Website Demo
+Implementation of Event Handlers in Javascript
 
 ## Description
 
-Website designed and developed for education purposes to teach and overview some Html and CSS concepts.
+Project developed to explain how to implement Event Handlers in JS.
 
 ## Getting Started
 
 ### Dependencies
 
-* Google fonts inline Dependencies
-
-### View Demo
-
-* [Online Demo](https://ilmatterello.web.app/)
-
+* Node.js
+  
 ### Executing program
 
 * How to clone the code
 * Step-by-step bullets
 ```
-git clone https://github.com/manriqueluis98/il-matterello
+git clone https://github.com/EducursosAp/javascript-manejadores-eventos.git
 ```
 
 ## Authors
@@ -35,4 +31,3 @@ Luis Manrique
 
 * 0.1
     * Initial Release
-    * Version Mobile only
